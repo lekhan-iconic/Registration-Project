@@ -4,6 +4,12 @@ Importnat Note:-
 2) First backend should be run then frontend
 
 Backend :-
+
+Database:-
+1) Database name : inlabs
+2) Table name : register
+
+Running of Backend :-
 1) change the directory to server
 2) server> npm install - to get all the node_modules for backend
 3) server> npm start - to run the server or backend
