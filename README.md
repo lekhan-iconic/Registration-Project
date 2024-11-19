@@ -2,6 +2,7 @@
 Importnat Note:-
 1) Both the frontend and backend should run in separate terminals
 2) First backend should be run then frontend
+
 Backend :-
 1) change the directory to server
 2) server> npm install - to get all the node_modules for backend
